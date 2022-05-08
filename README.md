@@ -1,6 +1,6 @@
 # FSL DevOps Continuous Integration(CI) Challenge
 
-## Part 1. (1.5 hr max )
+## Part 1. (1.5 hr ma )
 
 Set up a new repository and CI pipeline using any free tier from the provider of your choosing (e.g. GitLab, GitHub, BitBucket, etcetera).
 
